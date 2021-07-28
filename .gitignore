@@ -1,0 +1,7 @@
+TGymTopGIrds.xcodeproj/xcuserdata/
+TGymTopGIrds.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+TGymTopGIrds.xcodeproj/project.xcworkspace/xcuserdata/
