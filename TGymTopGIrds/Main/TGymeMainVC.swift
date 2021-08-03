@@ -32,6 +32,8 @@ class TGymeMainVC: UIViewController, UINavigationControllerDelegate {
         showHomeView()
         homeBtn.isSelected = true
         settBtn.isSelected = false
+        
+        AFlyerLibManage.event_LaunchApp()
     }
     
     override func viewWillAppear(_ animated: Bool) {

@@ -92,6 +92,7 @@
 		EB933F5926AAD8E300874AEC /* overlayerImgList.json in Resources */ = {isa = PBXBuildFile; fileRef = EB933F5826AAD8E300874AEC /* overlayerImgList.json */; };
 		EBAAB07A26AE641F00D89E0C /* TGymColorPanView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBAAB07926AE641F00D89E0C /* TGymColorPanView.swift */; };
 		EBAAB07C26AE91C800D89E0C /* TGymProAlertView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBAAB07B26AE91C800D89E0C /* TGymProAlertView.swift */; };
+		EBAAB16926B16EC200D89E0C /* KeyCChain.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBAAB16826B16EC200D89E0C /* KeyCChain.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -191,6 +192,7 @@
 		EBAAB07926AE641F00D89E0C /* TGymColorPanView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TGymColorPanView.swift; sourceTree = "<group>"; };
 		EBAAB07B26AE91C800D89E0C /* TGymProAlertView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TGymProAlertView.swift; sourceTree = "<group>"; };
 		EBAAB07D26AFE0CB00D89E0C /* Configuration.storekit */ = {isa = PBXFileReference; lastKnownFileType = text; path = Configuration.storekit; sourceTree = "<group>"; };
+		EBAAB16826B16EC200D89E0C /* KeyCChain.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KeyCChain.swift; sourceTree = "<group>"; };
 		FC352FD8A8D91B3273A29607 /* Pods-TGymTopGIrds.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TGymTopGIrds.debug.xcconfig"; path = "Target Support Files/Pods-TGymTopGIrds/Pods-TGymTopGIrds.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -293,6 +295,7 @@
 				EB933EB726AA644000874AEC /* DaLMymDataManager.swift */,
 				EB933F5226AABEEE00874AEC /* FilterList.plist */,
 				EB933EB926AA644000874AEC /* KeyCChain.swift */,
+				EBAAB16826B16EC200D89E0C /* KeyCChain.swift */,
 				EB933EB626AA644000874AEC /* LMymAppeLoginManager.swift */,
 				EB933EB526AA644000874AEC /* LMymCoinMana.swift */,
 				EB933EB326AA63CC00874AEC /* GoogleService-Info.plist */,
@@ -683,6 +686,7 @@
 				EB933ECB26AA64BC00874AEC /* UIColor+SSToolkitAdditions.m in Sources */,
 				EB933F3326AA66B900874AEC /* LoadingView.swift in Sources */,
 				EB933ECA26AA64BC00874AEC /* UIView+Frame.m in Sources */,
+				EBAAB16926B16EC200D89E0C /* KeyCChain.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
